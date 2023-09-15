@@ -15,6 +15,6 @@
   </a>
 </p>
 
-👋 Hi there. I'm @avixiii (Tuan)
-🫶 I'm interested in game development and AI, ML
-🧡 I like reading and writing code
+<li>👋 Hi there. I'm @avixiii (Tuan)</li>
+<li>👀 I'm interested in game development and AI, ML</li>
+<li>🧡 I like reading and writing code</li>
