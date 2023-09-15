@@ -1,4 +1,4 @@
-# Hi there. I'm @avixiii (Tuan) 👋
+# About me!
 
 <p>
   <a title="@avixiii" href="https://twitter.com/intent/follow?screen_name=avixiii_">
@@ -15,4 +15,6 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=avixiii&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Pham Anh Tuan Github Stats">
+👋 Hi there. I'm @avixiii (Tuan)
+🫶 I'm interested in game development and AI, ML
+🧡 I like reading and writing code
