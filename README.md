@@ -2,9 +2,9 @@
 
 <p>
   <a title="@avixiii" href="https://twitter.com/intent/follow?screen_name=avixiii_">
-     <img alt="X" src="https://img.shields.io/badge/Avixiii_-14171A?style=flat-square&logo=x&logoColor=white"/>
+     <img alt="X" src="https://img.shields.io/badge/AVIXIII-14171A?style=flat-square&logo=x&logoColor=white"/>
   </a>
-  <a title="@avixiii@gmail.com" href="mailto: avixiii@gmail.com" target="_blank">
+  <a title="@avixiii@gmail.com" href="mailto: contact@avixiii.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Gmail-F14236?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
