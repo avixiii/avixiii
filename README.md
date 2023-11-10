@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi there. I'm @avixiii (Tuan)
+- 👋 Hi there. I'm @avi (Tuan)
 - 👀 I'm interested in game development and AI, ML
 - 🧡 I like reading and writing code
   
